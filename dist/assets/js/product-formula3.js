@@ -1,8 +1,4 @@
-$(document).ready(function(){
- 
-  // пометь в меню
+$(document).ready(function () {
   mark("product-formula3");
-  
-  // запомни какая страница открыта
   setPageName("Формула 3");
 });

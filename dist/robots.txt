@@ -1,3 +1,3 @@
 User-agent: *
-Allow: /
-Sitemap: https://direct.gerbal24.ru/sitemap.txt
+Disallow: /
+Sitemap: https://info.gerbal-lavka.ru/sitemap.txt

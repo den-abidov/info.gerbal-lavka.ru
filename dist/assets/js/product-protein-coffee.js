@@ -1,8 +1,4 @@
-$(document).ready(function(){
- 
-  // пометь в меню
+$(document).ready(function () {
   mark("product-protein-coffee");
-  
-  // запомни какая страница открыта
   setPageName("протеиновый кофе");
 });

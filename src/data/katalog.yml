@@ -2,16 +2,16 @@ product:
 # ВАЖНО! Для товаров используются тэги :
 # all popular set breakfast snack dinner weightloss cleanse energy heart immune digestion cosmetics sport
 # Эти тэги присваиваются как опции в select menu на странице katalog.html
-  - tags: all popular breakfast dinner weightloss
-    name: карта Клиента
-    description: Даёт повышенную <b>накопительную</b> скидку. Карту можно купить за 5 тыс. руб. или получить <b>бесплатно</b> набрав 100 очков за 1 или 2 покупки. Чтобы получить 100 очков закажите продукцию со скидкой 25% на 7-8 тыс. руб.
-    imageFile: card-present-5000.svg
-    price100: 5000
-    priceMinus25: 0
-    priceMinus35: 0
-    url: skidki.html
-    hasComments:
-    card: true
+#  - tags: all popular breakfast dinner weightloss
+#    name: карта Клиента
+#    description: Даёт повышенную <b>накопительную</b> скидку. Карту можно купить за 5 тыс. руб. или получить <b>бесплатно</b> набрав 100 очков за 1 или 2 покупки. Чтобы получить 100 очков закажите продукцию со скидкой 25% на 7-8 тыс. руб.
+#    imageFile: card-present-5000.svg
+#    price100: 5000
+#    priceMinus25: 0
+#    priceMinus35: 0
+#    url: skidki.html
+#    hasComments:
+#    card: true
 
   - tags: all popular breakfast dinner weightloss
     name: коктейль Формула 1

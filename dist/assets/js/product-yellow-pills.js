@@ -1,8 +1,4 @@
-$(document).ready(function(){
- 
-  // пометь в меню
+$(document).ready(function () {
   mark("product-yellow-pills");
-  
-  // запомни какая страница открыта
   setPageName("жёлтые таблетки");
 });

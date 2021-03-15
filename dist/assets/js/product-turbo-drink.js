@@ -1,8 +1,4 @@
-$(document).ready(function(){
- 
-  // пометь в меню
+$(document).ready(function () {
   mark("turbo-drink");
-  
-  // запомни какая страница открыта
   setPageName("Турбонапиток");
 });
